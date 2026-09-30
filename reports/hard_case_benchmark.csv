@@ -1,0 +1,5 @@
+Cohort,S1_Count,EdgeRecall_FixedK25_%,EntityCoverage_FixedK25_%,EdgeRecall_Adaptive10_25_50_%,EntityCoverage_Adaptive10_25_50_%
+All Validation Entities,10000,82.46,62.86,78.04,55.96
+Singletons (0 matches),557,0.0,0.0,0.0,0.0
+Multi-match Entities (>1 match),8913,82.48,59.42,78.03,51.85
+High Multi-match (>5 matches),1123,82.46,45.15,76.8,33.21

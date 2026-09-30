@@ -1,0 +1,14 @@
+Category,Missed_Count,Percentage_of_Missed_%,Percentage_of_All_True_Pairs_%
+O. Candidate ranking/pruning failure,3630,42.12,10.52
+F. Transliteration / non-ASCII,2384,27.66,6.91
+G. Domain-name variation,1437,16.67,4.16
+I. Address variation,591,6.86,1.71
+E. Character typo,365,4.23,1.06
+C. Tokenization failure,154,1.79,0.45
+N. Common-token collision,32,0.37,0.09
+M. House-number mismatch,8,0.09,0.02
+J. Missing address,7,0.08,0.02
+H. Phone-number contamination,5,0.06,0.01
+P. Other,4,0.05,0.01
+B. Legal suffix variation,1,0.01,0.0
+D. Word-order variation,1,0.01,0.0

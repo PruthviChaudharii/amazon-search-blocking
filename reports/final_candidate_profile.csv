@@ -1,0 +1,19 @@
+metric,value
+Total S1 Entities,1732544.0
+Total Candidate Pairs,41738875.0
+Mean Candidates / S1,24.09
+Median Candidates / S1,25.0
+P90 Candidates / S1,25.0
+P95 Candidates / S1,25.0
+P99 Candidates / S1,25.0
+Maximum Candidates / S1,25.0
+Zero Candidates Count,829.0
+Zero Candidates %,0.0478
+Reduction Ratio (Country %),99.999379
+Reduction Ratio (Global %),99.999758
+File Size (MB),534.37
+US Candidates,16009747.0
+France Candidates,5977012.0
+India Candidates,19752116.0
+S2 Candidates,33459684.0
+S3 Candidates,8279191.0
